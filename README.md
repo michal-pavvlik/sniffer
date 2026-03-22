@@ -1,2 +1,2 @@
 # sniffer
-We'll see :)
+Low level packet capturing sniffer
